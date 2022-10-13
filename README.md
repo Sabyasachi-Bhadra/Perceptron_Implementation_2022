@@ -18,4 +18,7 @@ conda create --prefix ./env1 python=3.7 -y
 conda activate ./env1
 '''
 
-### test
+## make directory command in git bash - 
+'''
+mkdir Research_env
+'''
